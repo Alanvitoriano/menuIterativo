@@ -1,0 +1,12 @@
+body{
+   background-color:aquamarine
+}
+
+img{
+    margin: auto;
+    display: block;
+}
+
+.centralizar{
+    text-align: center
+}
