@@ -1,12 +1,8 @@
 body{
-   background-color:aquamarine
-}
-
-img{
-    margin: auto;
-    display: block;
-}
-
+    background:
+    linear-gradient(50deg,#ff4169,#7c26f8);
+    background-attachment:fixed;
+    }
 .centralizar{
     text-align: center
 }
